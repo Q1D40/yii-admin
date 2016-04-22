@@ -1,1 +1,1 @@
-# yii-admin
+# a web admin code by yii framework
